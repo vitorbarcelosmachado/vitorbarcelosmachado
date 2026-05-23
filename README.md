@@ -1,3 +1,3 @@
 ## Olá, meu nome é Vitor!
 
-Atualmente estou trabalhando no setor financeiro, sem desenvolvimento envolvido.
+Atualmente estudando desenvolvimento full-stack na plataforma Rocketseat.
